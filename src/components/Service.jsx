@@ -11,6 +11,11 @@ const services = [
     title: "Backend Development",
     description: "Developing robust server-side logic and databases.",
   },
+  {
+    id: 3,
+    title: "Mobile App Development",
+    description: "Designing and developing cross-platform mobile applications.",
+  },
    
 ];
 
