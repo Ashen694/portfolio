@@ -1,4 +1,7 @@
 # Personal Portfolio Website using React + Tailwind CSS
 
 
-![personal portfolio website](https://github.com/user-attachments/assets/7751f7e8-76f1-4010-892c-525844d989cf)
+![Portfolio Screenshot](src/assets/portfolio1.PNG)
+![Portfolio Screenshot](src/assets/portfolio2.PNG)
+![Portfolio Screenshot](src/assets/portfolio3.PNG)
+![Portfolio Screenshot](src/assets/portfolio4.PNG)
