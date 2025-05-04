@@ -1,4 +1,4 @@
-# Personal Portfolio Website using React + Tailwind CSS
+# Personal Portfolio Website using React + Tailwind CSS +EmailJS
 
 
 ![Portfolio Screenshot](src/assets/portfolio1.PNG)
