@@ -2,6 +2,7 @@ import React from "react";
 import Kingsman from "../assets/kingsman-cafe.png";
 import sunfly from "../assets/sunfly.png";
 import bidzone from "../assets/BidZone.png";
+import ECommerce from "../assets/ECommerce.png";
 
 const projects = [
   {
@@ -24,6 +25,14 @@ const projects = [
     technologies: "A web-based application developed using Java, HTML, and CSS. It enables users to participate in real-time product bidding with features like secure login and efficient auction management.",
     image: bidzone,
     github: "https://github.com/Ashen694/Bidzone-Auction-System.git",
+  },
+
+    {
+    id: 4,
+    name: "E-Commerce Web Application",
+    technologies: " A dynamic, web-based e-commerce clothing platform built with Laravel, Tailwind CSS, Bootstrap, and MySQL — delivering seamless shopping experiences with modern design and robust performance.",
+    image: ECommerce,
+    github: "https://github.com/Ashen694/eCommerce_Clothing_Website",
   },
 ];
 

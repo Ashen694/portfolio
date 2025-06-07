@@ -42,7 +42,7 @@ const Contact = () => {
             </div>
             <div className='mb-4'>
                 <FaPhone className='inline-block text-green-400 mr-2'></FaPhone>
-                <span>0764626779</span>
+                <span>0719047694</span>
             </div>
             <div className='mb-4'>
                 <FaMapMarkedAlt className='inline-block text-green-400 mr-2'></FaMapMarkedAlt>
